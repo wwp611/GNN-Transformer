@@ -1,1 +1,1 @@
-it is an interesting attemot to study GNN and Transformer. Through crystal POSCAR prediction, we can see the powerful of GNN and Transformer.
+It is an interesting attempt to study GNN and Transformer machine learning model. Through the position in solid crystal prediction, we can see the powerful of GNN and Transformer.
